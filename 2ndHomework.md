@@ -6,8 +6,6 @@
 
 > 使用了40G显存后，加载速度快一点，但还达不到实时的速度。
 
-
-
 ## 2. 熟悉 hugging face 下载功能，使用 `huggingface_hub` python 包，下载 `InternLM-20B` 的 config.json 文件到本地（需截图下载过程）
 
 ![](./imgs/huggingface.png)
